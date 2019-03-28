@@ -1,0 +1,82 @@
+
+
+.block{
+    background-color: #000;
+    opacity: 0.7;
+    padding: 10px;
+    width: 50%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 10%;
+    margin-bottom: auto;
+    border-radius: 10px;
+}
+
+.nav.nav-pills{
+    font-family: "Lobster";
+    font-size: 1.7em;
+    background-color: #000 !important;
+    opacity: 0.7;
+    
+}
+
+.body{
+    background-color: #fff;
+}
+
+a{
+    color: #337ab7 !important;
+}
+h1{
+    padding: 0px;
+    margin-top:0px; 
+    font-family: "Lobster";
+    color: #fff;
+    opacity: 2;
+    font-size: 5em;
+}
+
+h2{
+    font-family: "Lobster";
+    color: #fff;
+}
+.btn-default{
+    background-color: #000;
+    border-color: #000;
+    font-family: 'Lobster';
+    color: #337ab7;
+    font-size: 1.7em;
+}
+
+.btn-default a:hover{
+    background-color: #fff;
+}
+.pageOne{
+    background: url('https://images.unsplash.com/photo-1501549629324-babe362ea542?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80');
+    background-size: cover;
+    height: 800px;
+    
+}
+
+.pageTwo{
+    background: url('https://images.unsplash.com/photo-1450849608880-6f787542c88a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=966&q=80');
+    background-size: cover;
+    height: 800px;
+
+    padding-top: 5%;
+}
+
+.pageTwo p{
+    font-size: 1.2em;
+    color: #fff;
+}
+.me{
+    /* width: 200px; */
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.fa-twitter{
+    
+}
